@@ -1,0 +1,21 @@
+{
+  "name": "@geaves/frontend",
+  "version": "1.0.0",
+  "description": "The frontend of geaves AI",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "frontend"
+  ],
+  "author": "letsmoe",
+  "license": "MIT",
+  "dependencies": {
+    "colarg": "^1.1.4"
+  }
+}
