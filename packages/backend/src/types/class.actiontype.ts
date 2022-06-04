@@ -1,0 +1,5 @@
+class ActionType {
+
+}
+
+export {ActionType}

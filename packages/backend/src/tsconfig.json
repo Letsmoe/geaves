@@ -1,0 +1,20 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"outDir": "../lib/",
+		"jsxFactory": "Snowblind.make",
+		"jsx": "react",
+		"target": "es5",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"lib": [
+			"es6",
+			"dom"
+		],
+		"allowSyntheticDefaultImports": true,
+		"declaration": true,
+		"declarationMap": true,
+		"declarationDir": "../dist/declarations/",
+	}
+}
